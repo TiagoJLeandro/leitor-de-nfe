@@ -1,6 +1,6 @@
 <h1>Leitor de NF-e</h1>
 <span>
-  <b>Desafio</b>: criar um programa que leia uma nota fiscal<br>eletrônica e que retorne um objeto python e JSON com os dados da NFE.
+  <b>Desafio</b>: criar um programa que leia uma nota fiscal eletrônica e que retorne um objeto python e JSON com os dados da NFE.
 </span>
 <br>
 <section id='sumario'>
