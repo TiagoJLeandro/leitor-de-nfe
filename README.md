@@ -10,9 +10,6 @@
       <a href="#instalacao-e-requisitos">Instalação e requisitos</a>
     </li>
     <li>
-      <a href="#estrutura-do-modulo">Estrutura do módulo</a>
-    </li>
-    <li>
       <a href="#dados-coletados">Dados que serão coletados</a>
     </li>
     <li>
